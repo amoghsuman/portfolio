@@ -1,1 +1,3 @@
-<?php include_once(“chat.html”); ?>
+<?php 
+	readfile("home.html"); 
+?>
